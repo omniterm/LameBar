@@ -1,0 +1,15 @@
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.vbprojAssemblyReference.cache
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.Form1.resources
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.Resources.resources
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.vbproj.GenerateResource.cache
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.vbproj.CoreCompileInputs.cache
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.exe.config
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.exe
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.pdb
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.xml
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.exe
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.xml
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.pdb
+C:\Users\dphelps\source\repos\LameBar\LameBar\obj\Debug\LameBar.SettingsF.resources
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.exe.CodeAnalysisLog.xml
+C:\Users\dphelps\source\repos\LameBar\LameBar\bin\Debug\LameBar.exe.lastcodeanalysissucceeded
